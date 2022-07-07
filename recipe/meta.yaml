@@ -44,7 +44,7 @@ about:
   home: https://manimpango.manim.community/
   summary: Bindings for Pango for using with Manim.
   dev_url: https://github.com/ManimCommunity/manimpango
-  license: GPL-3.0-or-later
+  license: MIT
   license_file: LICENSE
 
 extra:
